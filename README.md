@@ -6,7 +6,7 @@ In the qualification program i wanted to make sure confidentiality for those who
 And for those who wish to go ahead and own it!
 
 You can use the class files to run the programs and the java files to go through the code
-I appreciate going throught= the output_imgs
+I appreciate going through the the output_imgs
 
 [Karunakar Pusuluri](https://github.com/KARUNAKARPUSULURI)
 
